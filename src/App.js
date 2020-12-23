@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="person">
-      <h1>Max</h1>
-      <p>Your Age: 28</p>
+      <h1>Hello</h1>
+      <p>Good to see you here!</p>
     </div>
 
   );
